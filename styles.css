@@ -339,7 +339,7 @@ img {vertical-align: middle;}
 
 /*End Slide*/
 
-/*Gillian's B&B Country house and breakfast in galway*/
+/*Gillian's B&B Country house and fast in galway*/
 
 .intro{
 	max-width: 890px;
@@ -437,7 +437,8 @@ button:hover {
 
 /*ATRATIONS*/
 .break{
-	height: 850px;
+	background: #f7f7f7;
+	height: 830px;
 }
 
 .local-attractions-heading{
